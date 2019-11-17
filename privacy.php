@@ -24,7 +24,7 @@ even send grades <i>without</i> requiring PII.  Each tool that is registered in 
 <p>This site is operated on professionally maintained University of Michigan servers.  
 None of your data is shared with any server that is outside of the University of Michigan.  </p>
 <p><strong>How do we protect your information?</strong></p>
-<p>Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.</p>
+<p>Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all information you supply is encrypted via Secure Socket Layer (SSL) technology while being accessed across the Internet.</p>
 <p><strong>How long to we retain your PII?</strong></p>
 <p>This system keeps your learning activity separate from your personally identifiable information (Name, Email Address, etc.).
 If you do not use this system for 30 days, your PII data is removed from the system (i.e. anonymized).   If you reconnect to the system
@@ -35,7 +35,7 @@ to your account.  The data cannot be de-anomomized unless you reconnect through 
 <p>We honor Do Not Track signals.  When DNT is indicated, we supress the gathering of all internal analytics data and do not use any third-party (Google only) analytics on the pages the user visits.  We never show ads on any page.</p>
 <p><strong>Do this site use/set 'cookies'?</strong></p>
 <p>This site will not set <b>any</b> cookies during use of the tools on this site when launched from an LMS
-by teachers or students.  If you vist the site outside of a launch from an LMS to administer or maintain the site, or even view
+by teachers or students.  If you vist the site outside of a launch from an LMS to administer, maintain, or even view
 this privacy policy, the site will set a temporary session cookie which will be discarded when your borwser is closed.
 If you log in to this site to do adminstration / maintenance the site will set login related cookies to make your next login
 easier.
@@ -75,5 +75,11 @@ to function even if you turn off cookies on this site.
 Ann Arbor, MI 49105
 USA</code></pre>
 <p>Last edited: 17-Nov-2019</p>
+<p>
+<small>
+Learning Tools Interoperability® (LTI®) is a trademark of 
+the IMS Global Learning Consortium.
+</small>
+</p>
 <?php include("foot.php"); ?>
 
