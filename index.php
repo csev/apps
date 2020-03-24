@@ -9,24 +9,25 @@ require "nav.php";
 ?>
 <div id="container">
 <div style="margin-left: 10px; float:right">
-<h1>Learning Applications @ UMich</h1>
+<h1>Learning Applications from csev@UMich</h1>
 <p>
-This site hosts a number of learning applications to be used 
+This site hosts a number of learning applications to be used
 at the University of Michigan in Canvas.
 This should already be installed and available.  If you have any questions
-please contact Michael Hess (mlhess) or Charles Severance(csev)
-from the 
+please contact
+Charles Severance(csev) or Michael Hess (mlhess)
+from the
 <a href="https://www.si.umich.edu/" target="_blank">
 University of Michigan School of Information
 </a>.
 </p>
 <h2>Technology</h2>
 <p>
-This site uses <a href="http://www.tsugi.org" target="_blank">Tsugi</a> 
-framework to embed a learning 
-management system into this site and handle the autograders.  
+This site uses <a href="http://www.tsugi.org" target="_blank">Tsugi</a>
+framework to embed a learning
+management system into this site and handle the autograders.
 If you are interested in collaborating
-to build these kinds of sites for yourself, please see the 
+to build these kinds of sites for yourself, please see the
 <a href="http://www.tsugi.org" target="_blank">tsugi.org</a> website.
 <h3>Copyright</h3>
 <!--
@@ -37,5 +38,5 @@ var_dump($USER);
 ?>
 -->
 </div>
-<?php 
+<?php
 require "foot.php";
